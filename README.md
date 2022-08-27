@@ -14,7 +14,7 @@
 <p align="left">
 
 <a href="https://twitter.com/MitulSongara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mitulsongara" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Mitul Songara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitul songara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mitul-songara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitul songara" height="30" width="40" /></a>
 <a href="https://instagram.com/mitul_songara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mitul_songara" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@mitulkumarsonga1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mitulkumarsonga1" height="30" width="40" /></a>
 
