@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mitul Sonagara</h1>
 
 <img align="right" alt="Coding" width="450" src="code.png">
-<h3 align="left">🟠 Pursuing Computer Engineering - 2nd Year🎓.</h3>
+<h3 align="left">🟠 Pursuing Computer Engineering - 3rd Year🎓.</h3>
 
---> I’m currently learning **frontend web developing**
+--> I’m currently learning **fullstack web development**
 
---> Ask me about **problem solving in C.**
+--> Ask me about **problem solving.**
 
 --> How to reach me **mitulkumarsongara@gmail.com**
 <h2></h2>
