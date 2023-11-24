@@ -29,7 +29,7 @@
 <h3 align="left"> 🔵 Github Status </h3>
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MitulSonagara&theme=github_dark&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MitulSonagara&theme=github-dark-blue&show_icons=true" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MitulSonagara&theme=github-dark-blue&border_radius=5" alt="GitHub Streak" /></a>
 </div>
 <h2></h2>
 
